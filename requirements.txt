@@ -1,0 +1,17 @@
+colorama
+dnspython
+requests
+beautifulsoup4
+python-whois
+pywhois
+pywin32
+aiohttp
+pypdf2
+python-magic-bin
+pefile
+Pillow
+python-docx
+scapy
+phonenumbers
+geocoder
+cryptography
